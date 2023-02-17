@@ -3,11 +3,11 @@
 <suite name="Main Flow" >
     <test name="flow1">
         <classes>
-            <class name="SetUp"></class>
+            <class name="Setup"></class>
             <class name="HomePageTest"></class>
-
-
+            <class name="MoveToScreen2Test"></class>
             <class name="TearDown"></class>
+
         </classes>
     </test>
 
